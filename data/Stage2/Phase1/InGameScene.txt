@@ -1,0 +1,6 @@
+#Scene 1
+Head:sprites/Characters/Rex.png; Word: Prepare yourself men.; Name: Rex; Time:500; Wave: 0
+#
+#
+#Scene 3
+Head:sprites/Characters/Anthony.png; Word: We're ready sir.; Name: Anthony; Time:400; Wave: 1

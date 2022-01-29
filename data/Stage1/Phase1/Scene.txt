@@ -1,0 +1,2 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: Finally Abord the Star ship the soilders began to investigate, but it wasn't long before they were confronted by that which they were expecting. They managed to escape the ambush from the aliens but they were followed.; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3

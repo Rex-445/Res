@@ -1,0 +1,2 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: So, Same task as before, go into the cold space and search for the source of this problem and hopefully put a stop to it. Rex's emotions towards Murphy grows stronger and it seems to affect his leadership decisions.; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3

@@ -1,0 +1,3 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: General Gallo and his men arrive at the legendary Temple of Narvoc unimpressed by it's captivating view, Narvon on the other hand seems pleases with his pressence and expresses it with a wide grin.; Name: LOG; Time:700; Music: Audio/Sys/mission.mp3
+Head:sprites/Characters/Kevin.png; Word: Gallo my old friend thank you for coming. YES YES at ease soilder we have much to discuss.; Name: Narvoc; Time:700; Music: Audio/Sys/mission.mp3

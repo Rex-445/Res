@@ -1,0 +1,6 @@
+#Scene 1
+Head:sprites/Characters/Rex.png; Word: We must hurry and clear all the waves.; Name: Rex; Time:500; Wave: 0
+#
+#
+#Scene 3
+Head:sprites/Characters/Anthony.png; Word: On Your word sir.; Name: Anthony; Time:400; Wave: 1

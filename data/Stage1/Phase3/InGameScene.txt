@@ -1,0 +1,14 @@
+#Scene 1
+Head:sprites/Characters/Matt.png; Word: Be ready for the worse.; Name: Murphy; Time:500; Wave: 0
+#
+#
+#Scene 3
+Head:sprites/Characters/Rex.png; Word: On your mark Lieutenant.; Name: Rex; Time:500; Wave: 1
+#
+#
+#Last Wave
+Head:sprites/Characters/Matt.png; Word: WE'RE ON ROUTE TO THE HEART. ONWARD MEN!!; Name: Murphy; Time:500; Wave: 9
+#
+#
+#Last Wave
+Head:sprites/Characters/Rex.png; Word: *Be careful Lieutenant*; Name: Rex; Time:500; Wave: 10

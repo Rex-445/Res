@@ -1,0 +1,2 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: Murphy's squad returned to base with news for their General, although it wasen't new for a soilder to fall in battle the report on Murphy pained the General harshly. The soilders continued on with the mission led by the new Lieutenant 'Rex'. With no evidence left of their old Lieutenant, besides the explosion from the starship, the case on him was closed. Benneth Murphy - KIA; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3

@@ -1,0 +1,18 @@
+#Scene 0
+Head:sprites/Characters/Matt.png; Word: I couldn't make it back in time.; Name: Murphy; Time:500; Wave: 0
+#
+#
+#Scene 1
+Head:sprites/Characters/Matt.png; Word: And worse I think I'm trapped in this Starship without any info on which section I'm in. ; Name: Murphy; Time:650; Wave: 1
+#
+#
+#Scene 2
+Head:sprites/Characters/Matt.png; Word: I managed plant the c4, and lucky enough I was able to swipe one of the alien rockets. ; Name: Murphy; Time:600; Wave: 2
+#
+#
+#Scene 3
+Head:sprites/Characters/Matt.png; Word: Let's hope this weird looking ship is stronger than it looks. ; Name: Murphy; Time:600; Wave: 3
+#
+#
+#Scene 11
+Head:sprites/Characters/Matt.png; Word: The timer on the c4 just ran out. THATS MY CUE TO LEAVE. ; Name: Murphy; Time:600; Wave: 11

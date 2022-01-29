@@ -1,0 +1,2 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: So, Lieutenant Rex and his squad venture into the deep cold of space in search of the Source of this wild fire. Although he had nothing to do with his death felt like he didn't do his job enough as a second in command.; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3

@@ -1,0 +1,30 @@
+#Scene 1
+Head:sprites/Characters/Matt.png; Word: We need to keep moving they're not far off.; Name: Murphy; Time:700; Wave: 1
+#
+#
+#Scene 3
+Head:sprites/Characters/Matt.png; Word: HOW MANY ARE THERE!!!; Name: Murphy; Time:500; Wave: 3
+##
+##
+#Scene 4
+Head:sprites/Characters/Rex.png; Word:THEY'RE SWARMING UP ON US!!; Name: Rex; Time:600; Wave: 4
+##
+##
+#Scene 7
+Head:sprites/Characters/Matt.png; Word: We can't leave like this. If we do we're only gonna bring them back to base and risk the lives of our men. *I can't let that happen on my first assignment*; Name: Murphy; Time:1000; Wave: 7
+##
+##
+#Scene 8
+Head:sprites/Characters/Rex.png; Word: What do you suggest chief?; Name: Rex; Time:550; Wave: 8
+##
+##
+#Scene 9
+Head:sprites/Characters/Matt.png; Word: I say we take it our from the source. Blow up the whole damn Starship!; Name: Murphy; Time:550; Wave: 9
+##
+##
+#Scene 10
+Head:sprites/Characters/Rex.png; Word: You know u take up that risk with our General. Right?; Name: Rex; Time:600; Wave: 10
+##
+##
+#Scene 11
+Head:sprites/Characters/Matt.png; Word:A risk worth taking. ON MY LEAD SOILDERS!!!; Name: Murphy; Time:400; Wave: 11

@@ -1,0 +1,2 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: The soilders reach the heart of the starship they found. It wasn't long before they realized they were not supposed to be there. A huge wave of aliens overthrew them forcing a tatical retreat. All except Rex stayed behind, he says he alone will deal with the aliens before hitting the emergency launch button. Rex is left alone with nothing and no secondary ammunition. He is on his own.; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3

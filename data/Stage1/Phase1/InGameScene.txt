@@ -1,0 +1,14 @@
+#Scene 1
+Head:sprites/Characters/Matt.png; Word: Careful with those weapons I don't plan to get blown up today.; Name: Murphy; Time:500; Wave: 0
+#
+#
+#Scene 2
+Head:sprites/Characters/Rex.png; Word: Everythin Here just seems weird, like where exactly are these guys coming from?; Name: Rex; Time:500; Wave: 2
+##
+##
+#Scene 7
+Head:sprites/Characters/Rex.png; Word: Well that seems like everything I sure am glad that's over; Name: Rex; Time:700; Wave: 6
+##
+##
+#Scene 8
+Head:sprites/Characters/Matt.png; Word: Let's get back to the base I'm done with this place.; Name: Murphy; Time:500; Wave: 7

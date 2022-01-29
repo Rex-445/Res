@@ -1,0 +1,2 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: The first attempt to investigate was a failure, and making things worse the soilders were followed by the aliens. Wave after wave they put their lives at stake. Their only hope is to repel the attack and report back to base to recover.; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3

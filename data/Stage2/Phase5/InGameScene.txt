@@ -1,0 +1,38 @@
+#Scene 0
+Head:sprites/Characters/Kevin.png; Word: Lieutenant WHAT THE HELL ARE YOU DOING.; Name: Kevin; Time:700; Wave: 0
+#
+#
+#Scene 1
+Head:sprites/Characters/Rex.png; Word: Make your way back to base and report to General Gallo.; Name: Rex; Time:600; Wave: 1
+#
+#
+#Scene 2
+Head:sprites/Characters/Anthony.png; Word: But sir we can't just leav.....; Name: Anthony; Time:400; Wave: 2
+#
+#
+#Scene 3
+Head:sprites/Characters/Rex.png; Word: THATS AN ORDER CADET!!!!!; Name: Rex; Time:700; Wave: 3
+#
+#
+#Scene 4
+Head:sprites/Characters/Anthony.png; Word: As you wish sir.; Name: Anthony; Time:700; Wave: 4
+#
+#
+#Scene 5
+Head:sprites/Characters/Narrator.png; Word: The soilders leave.; Name: Narrator; Time:700; Wave: 5
+#
+#
+#Scene 6
+Head:sprites/Characters/Rex.png; Word: Doing this dosen't mean I'm a hero.; Name: Rex; Time:700; Wave: 6
+#
+#
+#Scene 7
+Head:sprites/Characters/Rex.png; Word: But it makes me one heck of a soilder.; Name: Rex; Time:500; Wave: 7
+#
+#
+#Scene 9
+Head:sprites/Characters/Rex.png; Word: ARGH!!!. The shockwave has my ship loss of controls.; Name: Rex; Time:500; Wave: 9
+#
+#
+#Scene 10
+Head:sprites/Characters/Rex.png; Word: I'm gonna have to sit 'er down.; Name: Rex; Time:500; Wave: 10

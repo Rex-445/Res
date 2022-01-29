@@ -1,0 +1,2 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: The operation was simple. Get in plant the c4 and get out. Unfortunately Murphy had issues with the plan. He got caught out. Apparently the aliens seem to be smarter than expected. He stands at the very core of the Starship fighting off waves of extraterrestrial beings. Having no hope for survival he is left behind, as instructed by the Leiutenant himself; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3

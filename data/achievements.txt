@@ -1,0 +1,21 @@
+#Achievements
+#Untouchable
+Name: Can't Touch This; Type: Health; Value: 100; Description: Finish a stage without getting damaged by enemy attacks.; Done: Locked
+#
+#
+Name: Just A Scratch; Type: Health; Value: 50; Description: Finish a stage with your health above 50%.; Current: 0; Done: Locked
+#
+#
+Name: Beginner's Level; Type: Score; Value: 10; Description: Finish a stage with your Score above 10.; Current: 0; Done: Locked
+#
+#
+Name: Just A Scratch; Type: Kills; Value: 10; Description: Finish a stage with your health above 50%.; Current: 0; Done: Locked
+#
+#
+Name: Just A Scratch; Type: HighScore; Value: 0; Description: Beat your own Highscore.; Current: 0; Done: Locked
+#
+#
+Name: Fearless; Type: Boss; Value: 0; Description: Beat your own Highscore.; Current: 0; Done: Locked
+#
+#
+Name: Bullets are enough; Type: Powerup1; Value: 0; Description: Finish a game without using any powerups.; Current: 0; Done: Locked

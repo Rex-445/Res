@@ -1,0 +1,10 @@
+#Scene 1
+Head:sprites/Characters/Rex.png; Word: CHRIST WE'VE REACHED THE END OF THE WORLD. WHAT IS THIS PLACE.; Name: Rex; Time:700; Wave: 0
+#
+#
+#Scene 1
+Head:sprites/Characters/Kevin.png; Word: SIR EXTRATERRESTRIAL SHIPS ON THE MOVE, COMING NORTH.; Name: Kevin; Time:600; Wave: 1
+#
+#
+#Scene 2
+Head:sprites/Characters/Rex.png; Word: *GOD help us*.; Name: Rex; Time:500; Wave: 2

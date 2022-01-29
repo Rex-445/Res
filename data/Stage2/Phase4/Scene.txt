@@ -1,0 +1,2 @@
+#Scene 1
+Head:sprites/Characters/Narrator.png; Word: After the long and stressful search the soilders come to one of the lost ships General Gallo talked about. This to them could either could be what seems like either a "Breakthrough"..... or a "NIGHTMARE". Their only option is to survive; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3

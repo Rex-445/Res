@@ -1,0 +1,18 @@
+#Scene 0
+Head:sprites/Characters/Rex.png; Word: Alright men the instruction from General Gallo.; Name: Rex; Time:600; Wave: 0
+#
+#
+#Scene 1
+Head:sprites/Characters/Rex.png; Word: Two other extraterrestrial ships have been loacted. West of the recent starship.; Name: Rex; Time:600; Wave: 1
+#
+#
+#Scene 1
+Head:sprites/Characters/Rex.png; Word: We are to find and netralize it at all costs.; Name: Rex; Time:600; Wave: 2
+#
+#
+#Scene 1
+Head:sprites/Characters/Rex.png; Word: Understood?.; Name: Rex; Time:500; Wave: 3
+#
+#
+#Scene 1
+Head:sprites/Characters/Anthony.png; Word: Yes sir.; Name: Anthony; Time:400; Wave: 4
