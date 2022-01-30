@@ -1,2 +1,2 @@
 #Scene 1
-Head:sprites/Characters/Narrator.png; Word: Murphy and his squad set off into the heart of this catastrophy. Seeking what may or may not have caused "THE SWARM". Although Rex has second thoughts about his plan he himself can help but understand the pressure he's going through.; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3
+Head:sprites/Characters/Narrator.png; Word: Murphy and his squad set off into the heart of this catastrophy. Seeking what may or may not have caused "THE SWARM". Although Rex has second thoughts about his plan he himself can't help but understand the pressure he's going through.; Name: LOG; Time:700000000000000; Music: Audio/Sys/mission.mp3
